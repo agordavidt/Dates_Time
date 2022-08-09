@@ -1,6 +1,6 @@
 """
-Date:
-Author:
+Date: 08 - 08 - 2022
+Author: David Agor
 Program: The Date, Time and Datetime Classes
 """
 from datetime import date
